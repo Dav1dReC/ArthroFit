@@ -4,8 +4,9 @@ Una aplicación móvil dual diseñada para mejorar la calidad de vida de pacient
 
 ## 🛠️ Tecnologías utilizadas
 
-* **Frontend:** Android SDK (Java / Kotlin)
-* **Base de datos:** SQLite / Room (Local)
+* **Entorno de desarrollo:** Android Studio
+* **Lenguaje:** Kotlin
+* **Backend y Base de datos:** Firebase (Cloud Firestore / Realtime Database & Authentication)
 
 ## ✨ Características principales
 
